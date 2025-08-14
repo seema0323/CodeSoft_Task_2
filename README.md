@@ -1,0 +1,2 @@
+# CodeSoft_Task_2
+SIMPLE CALCULATOR
